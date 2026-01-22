@@ -425,5 +425,6 @@ void partyMode() {
 - *Или... придумать что-то совершенно свое!* 💫
 
 **Удачи в твоих волшебных экспериментах, принцесса-программистка!** 👑💻✨
+
 <img width="285" height="320" alt="image" src="https://github.com/user-attachments/assets/0685ffbf-b797-426a-8a23-f82e269c9c50" />
 
