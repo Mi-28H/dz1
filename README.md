@@ -262,6 +262,7 @@ void loop() {
   delay(30);
 }
 ```
+<img width="500" height="355" alt="image" src="https://github.com/user-attachments/assets/76b307fc-0ab6-46c8-8619-b4e356477938" />
 
 ---
 
